@@ -11104,7 +11104,7 @@ COOP_OBJ_FLAG_NETWORK = (1 << 0)
 COOP_OBJ_FLAG_NON_SYNC = (1 << 2)
 
 --- @type integer
-MAX_PLAYERS = 16
+MAX_PLAYERS = 128
 
 --- @type integer
 PLAY_MODE_CHANGE_AREA = 3
